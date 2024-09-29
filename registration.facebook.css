@@ -1,0 +1,73 @@
+img{
+   width: 300px;
+   height: 200px;
+   object-fit: cover;
+}
+
+.img_conteiner{
+   display: flex;
+   justify-content: center;
+}
+
+.text_conteiner{
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+}
+
+.password_conteiner{
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+}
+
+.button_conteiner{
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+}
+
+input[type="text"]{
+    display: block;
+   margin-bottom: 15px;
+    width: 240px;
+  padding: 10px;
+  border: 0px solid #808080;
+  border-radius: 5px;
+  font-size: 16px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  padding: 10px 20px;
+  background-color: blue;
+  color: #ADD8E6;
+  border: 1px solid #ADD8E6;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+   width: 250px;
+}
+
+.h4_conteiner{
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+
+}
+
+.text{
+   display: flex;
+   justify-content: center;
+   color: blue;
+    cursor: pointer;
+}
+
+.h3_conteiner{
+   display: block;
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+   width: 100%;
+   color: gray;
+}
